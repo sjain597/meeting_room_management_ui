@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    background-color: rgba(231, 234, 237, 0.5);
+}
+
+.header_left {
+    width: 300px;
+    padding-left: 30px;
+
+    img {
+        width: 100%;
+    }
+}
+
+.header_right {
+    width: 300px;
+    display: flex;
+    height: 50px;
+    padding-right: 30px;
+    justify-content: space-between;
+
+    img {
+        width: 50px;
+    }
+}

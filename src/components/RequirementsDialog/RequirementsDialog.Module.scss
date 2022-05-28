@@ -1,0 +1,21 @@
+.outerWrapper{
+    margin:16px;
+    padding-top: 16px;
+}
+.textfield{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.element{
+    margin-top: 20px;
+}
+.alignCenter{
+    display: flex;
+    flex-direction: column;
+    justify-content:  flex-end;
+    align-items: baseline;
+}
